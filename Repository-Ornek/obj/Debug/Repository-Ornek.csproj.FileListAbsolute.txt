@@ -1,0 +1,15 @@
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\Repository-Ornek.exe.config
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\Repository-Ornek.exe
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\Repository-Ornek.pdb
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\obj\Debug\Repository-Ornek.csprojResolveAssemblyReference.cache
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\obj\Debug\Repository_Ornek.Form1.resources
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\obj\Debug\Repository_Ornek.Properties.Resources.resources
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\obj\Debug\Repository-Ornek.csproj.GenerateResource.Cache
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\obj\Debug\Repository-Ornek.exe
+c:\users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\obj\Debug\Repository-Ornek.pdb
+C:\Users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\TEST.mdf
+C:\Users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\TEST_log.ldf
+C:\Users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\EntityFramework.dll
+C:\Users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\EntityFramework.xml
+C:\Users\comoo\onedrive\belgeler\visual studio 2015\Projects\Repository-Ornek\Repository-Ornek\bin\Debug\EntityFramework.SqlServer.xml
